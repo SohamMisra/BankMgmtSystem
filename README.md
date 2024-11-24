@@ -48,7 +48,7 @@ Withdrawing amount
 
 ### 1. Clone the Repository  
 ```bash
-git clone <repository_url>
+git clone https://github.com/SohamMisra/BankMgmtSystem.git
 ```
 ### 2. Run the Application in Terminal
 Verify JDK installation
