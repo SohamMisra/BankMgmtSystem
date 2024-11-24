@@ -1,29 +1,43 @@
-Bank Management System
+# Bank Management System  
 
-A Java Swing-based application enabling basic banking operations.
+**A Java Swing-based application enabling basic banking operations.**
 
-Features
+---
 
-- Create a new account
-- Deposit money
-- Withdraw money
-- Check account balance
+## Features  
+- Create a new account  
+- Deposit money  
+- Withdraw money  
+- Check account balance  
 
-Requirements
+---
 
-- Java Development Kit (JDK) installed on your system
+## Requirements  
+- Java Development Kit (JDK) installed on your system  
 
-Installation and Usage
+---
 
-Clone Repository
+## Installation and Usage  
 
-
-Run the Application in Terminal
-
-1. Verify JDK installation: java -version
-2. Compile the program: javac BankManagementGUI.java
-3. Execute and run: java BankManagementGUI
-
+### 1. Clone the Repository  
+```bash
+git clone <repository_url>
+```
+### 2. Run the Application in Terminal
+Verify JDK installation
+```bash
+java -version
+```
+Compile the program
+```bash
+javac BankManagementGUI.java
+```
+Execute and run
+```bash
+java BankManagementGUI
+```
 Contributing
+Contributions are welcome!
 
-Pull requests and issues welcome.
+Pull requests: Feel free to propose enhancements or fixes.
+Issues: Report bugs or suggest new features.
